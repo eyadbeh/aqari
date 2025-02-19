@@ -1,0 +1,143 @@
+ .u-section-1 {
+  height: 700px;
+  background-image: url("../images/low-angle-view-blue-white-modern-buildings-cloudy-sky1.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 916px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 214px;
+  height: 61px;
+  margin: 106px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 30px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 294px;
+  width: 570px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-form-group-1 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-1 {
+  --radius: 13px;
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-2 {
+  --radius: 13px;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  width: 100%;
+  background-image: none;
+  --radius: 13px;
+  padding: 10px 0;
+}
+
+.u-section-1 .u-btn-3 {
+  background-image: none;
+  --radius: 13px;
+  margin: -9px auto 0;
+  padding: 10px 212px 10px 211px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  margin: 22px auto 0 418px;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 700;
+  margin: -29px 420px 60px auto;
+}
+
+.u-section-1 .u-btn-4 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 755px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 344px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 347px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 578px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 263px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 266px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 434px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 197px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 200px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 273px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 124px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 126px;
+  }
+}
